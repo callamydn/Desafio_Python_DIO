@@ -2,16 +2,16 @@
 
 <p style = 'font-size:40px'><strong> Desafio Criando um Sistema Bancario </strong></p>
 
-<p style = 'font-size:30px'> Primeira etapa: </p>
+<p style = 'font-size:30px'> <strong> Primeira etapa: </strong></p>
 
  <p style = 'font-size:25px'> Operações: </p>
- <p><strong>
+ <p>
   1 - Sacar <br>
   2 - Depositar <br>
   3 - Visualizar Extrato <br>
- </strong> </p>
+ </p>
 <p>
- <p style = 'font-size:25px'><strong> Usuários </strong></p>
+ <p style = 'font-size:25px'> Usuários </p>
 <p>
  - Quantidade de Usuarios: 1
 </p>
